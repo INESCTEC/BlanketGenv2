@@ -1,0 +1,6 @@
+{
+    "path_to_dataset":"/home_nas/Datasets/Fit3D/",
+    "smpl_path":"/home_nas/HPE/SMPL/",
+    "path_to_save_sim":"/home_nas/Datasets/BG3_F3D/blends/v1/",
+    "path_to_save_render":"/home_nas/Datasets/BG3_F3D/videos/v2/"
+}
